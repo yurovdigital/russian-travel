@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../how-to-learn"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "russian-travel"
+  }
+}
