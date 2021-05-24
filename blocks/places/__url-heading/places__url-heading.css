@@ -6,4 +6,6 @@
   font-size: 12px;
   line-height: 12px;
   margin: 0 0 12px 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }

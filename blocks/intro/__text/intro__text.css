@@ -6,6 +6,8 @@
   line-height: 163%;
   color: #fff;
   margin: 40px auto 34px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 
