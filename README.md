@@ -13,7 +13,7 @@
 
 **GitHub Pages**
 
-*[]()
+* [Ссылка на GitHub Pages](https://yurovdigital.github.io/russian-travel/)
 
 
 
