@@ -8,4 +8,8 @@
   margin: 0 0 12px 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
 }
+
+

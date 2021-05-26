@@ -1,6 +1,6 @@
 .footer {
   max-width: 1184px;
-  height: 310px;
+  min-height: 310px;
   margin: 0 auto;
   padding: 64px 0 24px 16px;
   display: flex;
@@ -13,7 +13,7 @@
  .footer {
    flex-direction: row;
    align-items: center;
-   height: 18px;
+   min-height: 18px;
    padding: 88px 24px 24px 24px;
  }
 }

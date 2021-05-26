@@ -5,7 +5,9 @@
   padding: 0 16px 0 16px;
   margin: 64px auto 0;
   box-sizing: border-box;
+  list-style-type: none;
 }
+
 
 @media screen and (min-width: 768px) {
   .photo-grid {
@@ -14,10 +16,20 @@
   }
 }
 
+/* !Добавил еще один медиа запрос чтобы выравнить сетку на промежуточных разрешениях */
+
+@media screen and (min-width: 1024px) {
+  .photo-grid {
+    padding: 0 48px 0 48px;
+    gap: 14px;
+  }
+}
+
 @media screen and (min-width: 1280px) {
   .photo-grid {
     max-width: 1184px;
     padding: 0;
+    gap: 16px;
   }
 }
 
