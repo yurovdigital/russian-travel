@@ -5,18 +5,17 @@
   line-height: 14px;
   color: #fff;
   text-transform: uppercase;
+  letter-spacing: 15%;
   padding: 8px 0 0 14px;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-transform: uppercase;
 }
 
 @media screen and (min-width: 768px) {
   .lead__caption {
     padding: 8px 0 0 24px;
-
-}
+  }
 }
 
 @media screen and (min-width: 940px) {
@@ -24,8 +23,3 @@
     padding: 8px 0 0 0;
   }
 }
-
-
-
-
-
