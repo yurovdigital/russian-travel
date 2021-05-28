@@ -6,7 +6,26 @@
 
 @media screen and (min-width: 768px) {
   .places__image {
-    grid-row: 2/4;
+    max-width: 340px;
+    max-height: 340px;
+    width: 100%;
+
+  }
+}
+
+
+@media screen and (min-width: 1024px) {
+  .places__image {
+    max-width: 440px;
+    max-height: 440px;
+
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .places__image {
+    max-width: 460px;
+    max-height: 460px;
 
   }
 }

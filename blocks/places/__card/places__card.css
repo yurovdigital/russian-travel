@@ -11,10 +11,10 @@
 @media screen and (min-width: 768px) {
   .places__card {
     display: grid;
-    grid-template-columns: repeat(2, minmax(340px, 1fr));
+    grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, min-content);
     padding: 0;
-    column-gap: 28px;
+    grid-gap: 48px 28px;
     max-width: 720px;
     margin: 0 auto 73px;
   }
@@ -27,6 +27,13 @@
 @media screen and (min-width: 1024px) {
   .places__card {
     max-width: 928px;
+    grid-gap: 48px 32px;
   }
+}
 
+@media screen and (min-width: 1280px) {
+  .places__card {
+    max-width: 984px;
+    grid-gap: 48px 40px;
+  }
 }
