@@ -10,8 +10,8 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.places__text:nth-of-type(2n) {
-  margin: 0 0 0 0;
+.places__text:nth-of-type(2) {
+  margin: 0;
 }
 
 .places__text:last-of-type {
@@ -22,10 +22,6 @@
   .places__text {
     padding: 0;
     margin: 0 0 25px 0;
-
-  }
-  .places__text:nth-of-type(2) {
-    margin: 0;
   }
 
   .places__text:last-of-type {
@@ -38,9 +34,3 @@
     font-size: 18px;
   }
 }
-
-
-
-
-
-
