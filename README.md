@@ -8,15 +8,11 @@
 
 ---
 
-#### Файловая структура:
-
 Файловая структура построена по технологии БЭМ Nested
 
 ---
 
-#### Макет
-
-[Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+* [макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
 #### Ссылки на проект
 
