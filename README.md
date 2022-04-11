@@ -17,7 +17,7 @@
 #### Ссылки на проект
 
 * [Ссылка на GitHub Pages](https://yurovdigital.github.io/russian-travel/)
-* [Ссылка на Vercel.com](https://russian-travel-pi.vercel.app/)
+* [Ссылка на Vercel.com](https://russian-travel-yd.vercel.app/)
 
 
 
